@@ -47,7 +47,7 @@ html {
 
 .photo {
     height: 230px;
-    background: url(img/123.png);
+    background: url(img/acrid.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -130,7 +130,7 @@ html {
     height: 90px;
     border: 1px solid #39383a;
     border-radius: 50%;
-    background: url(img/123.png);
+    
     background-size: cover;
     background-position: center;
 }
