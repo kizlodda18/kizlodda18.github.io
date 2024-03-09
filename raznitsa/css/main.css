@@ -1,0 +1,157 @@
+* {
+	margin: 0;
+	padding: 0;
+	z-index: 5;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-image: url(../img/fon2.png);
+	background-size: cover;
+}
+
+.shapka {
+	width: 100%;
+	height: 40px;
+	background: #5D9C59;
+
+}
+
+.shapka-align {
+	width: 60%;
+	height: inherit;
+	background: red;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo {
+	height: 40px;
+	width: 60px;
+	display: flex;
+
+}
+
+.menu-link-item {
+	margin-right: 50px;
+	text-decoration: none;
+	color: yellow;
+}
+
+.menu {
+	color: yellow;
+	font-size: 30px;
+
+}
+
+
+.text {
+	font-size: 30px;
+	text-align: center;
+	margin-top: 10%;
+	color: blueviolet;
+}
+
+.text2 {
+	font-size: 30px;
+	text-align: center;
+	margin-top: 10%;
+	color: blueviolet;
+}
+
+.text3 {
+	font-size: 30px;
+	text-align: center;
+	color: blueviolet;
+	
+}
+
+.obsh {
+	width: 80%;
+	height: 700px;
+	margin: auto;
+	
+	column: 2;
+	display: flex;
+	align-items: center;
+	margin-top: 2%;
+}
+
+.ng {
+	background: orange;
+	height: 90%;
+	width: 40%;
+	margin: auto;
+	border: 2px solid black;
+	border-radius: 50px;
+	box-shadow: 20px 40px 120px 20px red;
+}
+
+.ng:hover {
+	transition: 1.2s;
+	transform: scale(1.1);
+	background: url(../img/ded.png);
+	background-size: cover;
+}	
+
+.roz {
+	background: orange;
+	height: 90%;
+	width: 40%;
+	margin: auto;
+	border: 2px solid black;
+	border-radius: 50px;
+	box-shadow: 20px 40px 120px 20px red;
+}
+
+.roz:hover {
+	transition: 1.2s;
+	transform: scale(1.1);
+	background: url(../img/ded1.png);
+	background-size: cover;
+}
+
+.obsh2 {
+	padding-top: 5%;
+	width: 80%;
+	height: 500px;
+	
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.fone {
+	background: url(../img/dom.png);
+	background-size: cover;
+	height: 80%;
+	width: 100%;
+	padding-top: 5%;
+}
+
+.raz {
+
+	background: green;
+	height: 70%;
+	width: 60%;
+	margin: auto;
+	border: 2px solid black;
+	border-radius: 50px;
+	box-shadow: 20px 40px 120px 20px blue;
+}
+
+.raz:hover {
+	transition: 1.2s;
+	transform: scale(1.1);
+	background: url(../img/moroz.png);
+	background-size: cover;
+}
+
+.fon {
+	padding-bottom: 3%;
+	
+}

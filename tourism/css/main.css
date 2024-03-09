@@ -1,0 +1,165 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+.first {
+	background: url(../img/img1.jpg);
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
+
+
+.text {
+	padding-left: 50%;
+	padding-top: 150px;
+	color: white;
+	font-size: 30px;
+}
+
+
+
+.expl {
+	color: white;
+	opacity: 0.5;
+	font-size: 35px;
+
+}
+
+.fore {
+	font-size: 70px;
+	color: white;
+}
+
+.lo {
+	color: white;
+	font-size: 25px;
+
+}
+
+.abzaz {
+	padding-left: 15%;
+	padding-top: 180px;
+	width: 35%;
+	height: 160px;
+
+}
+
+.name {
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-bottom: 30px;
+	margin: auto;
+
+}
+
+.gallery {
+	width: 80%;
+	margin: auto;
+
+	
+}
+
+
+.gal {
+	color: black;
+	font-size: 45px;
+	
+}
+
+.lor {
+
+	font-size: 25px;
+	color: black;
+
+	
+}
+
+.images{
+
+	width: 80%;
+	height: 700px;
+	margin: auto;
+	display: flex;
+}
+
+.numb {
+	width: 600px;
+	height: 450px;
+	
+}
+
+.vert {
+	width: 400px;
+	height: 650px;
+	
+	padding-left: 20px;
+}
+
+.numbe {
+	height: 300px;
+	width: 450px;
+}
+
+.number {
+	height: 300px;
+	width: 450px;
+}
+
+
+.second {
+	padding-top: 300px;
+}
+
+
+.third {
+	background: url(../img/img3.jpg);
+	height: 350px;
+	width: 100%;
+	background-size: cover;
+	padding-top: 80px;
+}
+
+.abvg {
+	width: 190px;
+	height: 50px;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	margin: auto;
+
+}
+
+.texxt {
+	
+	font-size: 30px;
+	color: white;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	
+}
+
+.ipsum {
+	width: 50%;
+	height: 200px;
+	margin: auto;
+	padding-top: 70px;
+
+}
+
+.amoma {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+
